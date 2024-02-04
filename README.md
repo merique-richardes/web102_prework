@@ -33,9 +33,6 @@ Here's a walkthrough of implemented features:
 
 <img src='./walkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![image](./walkthrough2.gif)
-
-
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
 <!-- Recommended tools:
