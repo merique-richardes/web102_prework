@@ -41,7 +41,8 @@ function addGamesToPage(games) {
         // about each game
         // TIP: if your images are not displaying, make sure there is space
         // between the end of the src attribute and the end of the tag ("/>")
-
+        
+        // adds image, name, description, progress bar, and percent of goal reached to gamesContainer.
         div.innerHTML = `<img src="${games[i].img}" class="game-img" /> 
         <p> ${games[i].name} </p>
         <p> ${games[i].description} </p> 
@@ -170,7 +171,7 @@ let [first, second, ...others] = sortedGames
 
 // create a new element to hold the name of the top pledge game, then append it to the correct element
 let spotlight = document.createElement('div');
-// displays both image and name
+// displays image and name, and percent
 spotlight.innerHTML= `<img src = "${first.img}" class="game-img"/> <p> ${first.name} </p> <p>$${first.pledged.toLocaleString('en-US')} funded!</p> <p> ${Math.round((first.pledged/first.goal)*10000)/100}% of goal reached!</p>`;
 firstGameContainer.append(spotlight);
 
