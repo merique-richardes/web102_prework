@@ -21,10 +21,10 @@ The following **optional** features are implemented:
 * [x] The Our Games Section now displays % funded
 * [x] The Top-Funded Game and Runner-Up now also display an image, amount funded, and percent funded
 * [x] the stats-container children now light up on hover instead of the stats-container itself.
-* [x] added CSS to center descriptions and 2nd headings.
 * [x] buttons now have drop shadow on hover
 * [x] button and game cards scale when hovered
-* [x] css updated to be more dramatic
+* [x] added CSS to center descriptions and 2nd headings.
+* [x] added CSS to make color scheme more dramatic.
 
 
 ## Video Walkthrough
@@ -34,7 +34,7 @@ Here's a walkthrough of implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LICEcap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
