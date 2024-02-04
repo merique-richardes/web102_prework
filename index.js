@@ -169,11 +169,12 @@ const sortedGames =  GAMES_JSON.sort( (item1, item2) => {
 let [first, second, ...others] = sortedGames
 
 // create a new element to hold the name of the top pledge game, then append it to the correct element
-let spotlight = document.createElement('p');
-spotlight.innerHTML=first.name;
+let spotlight = document.createElement('div');
+// displays both image and name
+spotlight.innerHTML= `<img src = "${first.img}" class="game-img"/> <p> ${first.name} </p> <p>$${first.pledged.toLocaleString('en-US')} funded!</p> <p> ${Math.round((first.pledged/first.goal)*10000)/100}% of goal reached!</p>`;
 firstGameContainer.append(spotlight);
 
 // do the same for the runner up item
-let runner = document.createElement('p');
-runner.innerHTML = second.name;
+let runner = document.createElement('div');
+runner.innerHTML = `<img src = "${second.img}" class="game-img"/> <p> ${second.name} </p> <p>$${second.pledged.toLocaleString('en-US')} funded!</p> <p> ${Math.round((second.pledged/second.goal)*10000)/100}% of goal reached!</p>`;
 secondGameContainer.append(runner);

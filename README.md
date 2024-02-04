@@ -1,23 +1,31 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster*
 
-Submitted by: **Your Name Here**
+Submitted by: Merrick
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **9** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] The Our Games Section now has funding percentage bars
+* [x] The Our Games Section now displays % funded
+* [x] The Top-Funded Game and Runner-Up now also display an image, amount funded, and percent funded
+* [x] the stats-container children now light up on hover instead of the stats-container itself.
+* [x] added CSS to center descriptions and 2nd headings.
+* [x] buttons now have drop shadow on hover
+* [x] button and game cards scale when hovered
+* [x] css updated to be more dramatic
+
 
 ## Video Walkthrough
 
