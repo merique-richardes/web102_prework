@@ -4,7 +4,7 @@ Submitted by: Merrick
 
 **Sea Monster** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **9** hours spent in total
+Time spent: **12** hours spent in total (I think? I didn't measure)
 
 ## Required Features
 
