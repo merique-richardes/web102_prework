@@ -31,9 +31,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/5bMJoCm.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./walkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![image](https://i.imgur.com/5bMJoCm.gifv)
+![image](./walkthrough2.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
