@@ -42,7 +42,9 @@ GIF created with LICEcap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Understanding how the github works on a Mac was an ordeal, as I usually work from linux machines. 
+The process of learning css selector syntax, e.g. "." vs "#" was challenging to remember at first.
+Template literals were new to me, the difference between `` and '' seemed annoying at first, but I don't think I will forget it now.
 
 ## License
 
